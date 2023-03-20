@@ -1,0 +1,95 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1668964640519-fcbce3f0449d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+}
+.image{
+    width: 100%;
+    height: 100%;
+    border-radius: 120px;
+}
+.form{
+    margin: 204px 266px;
+    padding: 0px 0p;
+    background-image: url(https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZGFyayUyMGJldXRpZnVsbCUyMGJhY2tncm91bmQlMjBpbWFnZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
+    border-radius: 120px;
+}
+.name{
+    margin: 141px 7px;
+    padding: 35px 13px;
+
+}
+.input1{
+    margin: 6px -204px;
+    padding: 15px 97px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chartreuse;
+    
+    
+}
+.ip1{
+    margin: 12px -78px;
+padding: 29px 0px;
+width: 345px;
+border-radius: 57px;
+}
+.email{
+    margin: 84px 0px;
+    padding: 0px 0px;
+}
+.message{
+    margin:0px 0px;
+    padding:0px 0px;
+
+}
+.input2{
+    margin: 6px -204px;
+    padding: 15px 97px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chartreuse;
+
+
+}
+.ip2{
+    margin: 12px -78px;
+    padding: 29px 0px;
+    width: 345px;
+    border-radius: 57px;
+
+}
+.input3{
+    margin: 6px -204px;
+    padding: 15px 97px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chartreuse;
+    
+}
+.ip3{
+    margin: 27px -199px;
+padding: 29px 0px;
+width: 740px;
+border-radius: 57px;
+height: 232px;
+
+}
+.button{
+    padding: 0px;
+background-color: chartreuse;
+width: 247px;
+height: 83px;
+font-style: italic;
+
+}
+.button{
+    margin:0px;
+    padding:0px;
+    background-color: chartreuse;
+    border-radius: 40PX;
+}
+.heading{
+    font-family: cursive;
+margin: 27px 63px;
+padding: 41px 38px;
+background-color: darkmagenta;
+text-align: center;
+text-decoration: underline;
+border-radius: 56px;
+}
